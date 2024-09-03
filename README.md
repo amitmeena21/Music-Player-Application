@@ -1,1 +1,1 @@
-# Music-Player-Application-in-C-
+# Music-Player-Application
